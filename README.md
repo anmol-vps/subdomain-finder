@@ -17,22 +17,28 @@ Make sure you have the following tools installed:
    Install using:
    ```bash
    go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
-assetfinder
+``
+1. assetfinder
 
 Install using:
 
 go install github.com/tomnomnom/assetfinder@latest
 Installation
-Clone this repository:
+
+
+## Clone this repository:
 
 
 git clone https://github.com/your-username/find-subdomains.git
 cd find-subdomains
-Make the script executable:
+
+
+## Make the script executable:
 
 
 chmod +x find_subdomains.sh
-Usage
+
+## Usage
 Run the script by providing a target domain as an argument:
 
 
